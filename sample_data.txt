@@ -1,0 +1,29 @@
+labels,sentence
+1,Sally will stand near every woman that you will.
+0,I assumed to be innocent
+1,Syntax frightens Kenny.
+1,I read a statement which was about that man.
+0,Himself should decide soon.
+1,Which book about herself did Jenny say that Anson had written.
+1,I shipped the package halfway to the Antarctic.
+1,He told her the whole story.
+1,Which article did Terry file without reading?
+1,The cat is out of the bag.
+1,Sally isn't such a fool as people think.
+1,Sylvia could be slapping Jeff upside the head in martial arts class.
+1,The next morning we set out for Seoul.
+0,"It isn't because Sue said anything bad about me that I'm angry, although she did say some bad things about me."
+1,John bought a lot of books for his sons.
+1,The readings of Shakespeare satisfied me
+0,Max gave the car Levi's shove.
+0,Which god the statue?
+1,I see.
+1,"`` I am so happy '', thought John."
+1,Several people seem sick.
+1,They were wary of themselves and of each other.
+0,Her stepmother always clad her in black.
+1,Mary swam as many more laps than Joan as Linda.
+1,John read the book loudly.
+1,I think he will eat asparagus.
+1,So fast did you run that everyone gasped.
+0,Paul exhaled at Mary.
